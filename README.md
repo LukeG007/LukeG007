@@ -6,12 +6,12 @@
 
 </p>
 
-<style>
+```{css, echo=FALSE}
   img[src*='#center'] { 
     display: block;
     margin: auto;
   }
-</style>
+```
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lukeg007&show_icons=true&count_private=true&hide_title=true&theme=dracula&hide_border=true#center)  
 
