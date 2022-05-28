@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/69555173/170806824-3b2b5ff1-c680-4960-9911-9e7e7170baec.png)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lukeg007&show_icons=true&count_private=true&hide_title=true&theme=radical&hide_border=true#center)
 
