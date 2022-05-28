@@ -6,6 +6,7 @@
 
 
 <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=lukeg007&show_icons=true&count_private=true&hide_title=true&theme=radical&hide_border=true#center" />
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/LukeG007/count.svg" />
 
