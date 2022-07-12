@@ -1,5 +1,3 @@
-hi
-
 ![banner](https://user-images.githubusercontent.com/69555173/170806906-8b665f3f-dce2-4725-8dc2-837c3b4c74fa.png)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lukeg007&show_icons=true&count_private=true&hide_title=true&theme=jolly&hide_border=true#center)
