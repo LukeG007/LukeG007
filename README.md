@@ -1,4 +1,4 @@
-hello, i code things
+hi, i code things
 
 ![banner](https://user-images.githubusercontent.com/69555173/170806906-8b665f3f-dce2-4725-8dc2-837c3b4c74fa.png)
 
